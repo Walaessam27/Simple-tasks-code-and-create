@@ -1,0 +1,18 @@
+/* Task 1 */
+h1 {
+    text-align: center;
+}
+
+ul li {
+    font-weight: bold;
+    color: green;
+}
+
+ul {
+    border: 2px solid rgb(22, 47, 11);
+    background-color: rgb(132, 216, 184);
+    padding: 30px;
+    max-width: 200px;
+    font-size: 20px;
+    margin: auto;
+}
